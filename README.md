@@ -29,7 +29,7 @@ k.	Find out Which product was purchased mostly based on the quantity
 4.	Perform customer segmentation – Divide the customers into premium, gold, silver, standard and define the strategy on the same (i.e., heuristic, value based, RFM).
 Dividing the customers into segments was a prerequisite hence, segmentation has been incurred on the dataset. It enables us to target a specific segment likely to be interested.
 5.	To define the strategy to each segment we used scientific approach of clustering (K-Means) and along with that we understood the profiles.
-6.	To determine which of the products are sold together (mostly) for that we performed
+6.	To determine which of the products are sold together (mostly) for that performed.
 a.	Market Basket Analysis – For Market Basket Analysis we need to find mostly used products, least used products, mostly clicked products and top products in overall.
 b.	Apply association rules and apriori algorithm to extract the cross-selling products.
 c.	Performed analysis of cross selling products that are likely to be purchased together that results in more effective pricing strategies.
